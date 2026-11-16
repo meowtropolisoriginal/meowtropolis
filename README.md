@@ -10,6 +10,7 @@ Every project is a single file that runs with plain Python 3.8+. Nothing to inst
 | --- | --- | --- | --- |
 | 🇵🇹 Lisbon | [`lisboa/tram28.py`](lisboa/) | Tram 28 rides from Martim Moniz to Prazeres while you focus | [watch](VIDEO_LISBOA) |
 | 🇯🇵 Tokyo | [`tokyo/yamanote.py`](tokyo/) | A train loops the Yamanote Line, and every focus earns you a haiku | [watch](VIDEO_TOKYO) |
+| 🇫🇷 Paris | [`paris/bonjour.py`](paris/) | French flashcards: learn a word every 30 seconds while you study | [watch](VIDEO_PARIS) |
 
 ## Run one
 
